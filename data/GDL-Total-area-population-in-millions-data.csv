@@ -1,0 +1,38 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,2019,2020
+India,Asia/Pacific,IND,National,INDt,Total,1366,1380
+India,Asia/Pacific,IND,Subnat,INDr136,Andaman and Nicobar Islands,0.37,0.36
+India,Asia/Pacific,IND,Subnat,INDr101,Andhra Pradesh,52,51.1
+India,Asia/Pacific,IND,Subnat,INDr125,Arunachal Pradesh,1.04,1.01
+India,Asia/Pacific,IND,Subnat,INDr102,Assam,34.8,35.9
+India,Asia/Pacific,IND,Subnat,INDr103,Bihar,125,127
+India,Asia/Pacific,IND,Subnat,INDr131,Chandigarth,1.09,1.11
+India,Asia/Pacific,IND,Subnat,INDr129,Chhattisgarh,31.9,32.5
+India,Asia/Pacific,IND,Subnat,INDr132,Dadra and Nagar Haveli,0.36,0.36
+India,Asia/Pacific,IND,Subnat,INDr134,Daman and Diu,0.16,0.16
+India,Asia/Pacific,IND,Subnat,INDr104,Goa,1.87,1.98
+India,Asia/Pacific,IND,Subnat,INDr105,Gujarat,65.1,65.7
+India,Asia/Pacific,IND,Subnat,INDr106,Haryana,27.6,26.8
+India,Asia/Pacific,IND,Subnat,INDr107,Himachal Pradesh,7.47,7.6
+India,Asia/Pacific,IND,Subnat,INDr108,Jammu and Kashmir,12.4,12.4
+India,Asia/Pacific,IND,Subnat,INDr128,Jharkhand,35.2,35.2
+India,Asia/Pacific,IND,Subnat,INDr109,Karnataka,69.8,71.7
+India,Asia/Pacific,IND,Subnat,INDr110,Kerala,36.5,36.2
+India,Asia/Pacific,IND,Subnat,INDr135,Lakshadweep,0.07,0.06
+India,Asia/Pacific,IND,Subnat,INDr111,Madhya Pradesh,83.4,82.7
+India,Asia/Pacific,IND,Subnat,INDr112,Maharashtra,131,132
+India,Asia/Pacific,IND,Subnat,INDr113,Manipur,2.46,2.51
+India,Asia/Pacific,IND,Subnat,INDr114,Meghalaya,3.43,3.57
+India,Asia/Pacific,IND,Subnat,INDr115,Mizoram,1.13,1.15
+India,Asia/Pacific,IND,Subnat,INDr116,Nagaland,1.37,1.3
+India,Asia/Pacific,IND,Subnat,INDr124,New Delhi,20.1,20.4
+India,Asia/Pacific,IND,Subnat,INDr117,Orissa,45.5,45.6
+India,Asia/Pacific,IND,Subnat,INDr133,Puducherry,1.23,1.22
+India,Asia/Pacific,IND,Subnat,INDr118,Punjab,30,30.5
+India,Asia/Pacific,IND,Subnat,INDr119,Rajasthan,81.8,84.9
+India,Asia/Pacific,IND,Subnat,INDr120,Sikkim,0.59,0.61
+India,Asia/Pacific,IND,Subnat,INDr121,Tamil Nadu,79.1,77
+India,Asia/Pacific,IND,Subnat,INDr130,Telangana,33.6,31.3
+India,Asia/Pacific,IND,Subnat,INDr126,Tripura,3.98,4.04
+India,Asia/Pacific,IND,Subnat,INDr123,Uttar Pradesh,231,239
+India,Asia/Pacific,IND,Subnat,INDr127,Uttaranchal,11.4,11.6
+India,Asia/Pacific,IND,Subnat,INDr122,West Bengal,102,103
